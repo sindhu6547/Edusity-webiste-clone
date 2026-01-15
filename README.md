@@ -17,7 +17,6 @@ https://edusity-website-clone.netlify.app/
 - Netlify (Deployment)
 
 
-
 --------------------------------------------------
 
 📖 What I Learned
